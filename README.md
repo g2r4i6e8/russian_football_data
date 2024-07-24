@@ -17,7 +17,7 @@ The dataset includes information about all football matches (RFPL, RPL, Russian 
 ### matches
 - uid - player's uid (that is not unique field)
 - season - years of the season (e.g. 2012/2013)
-- tournament - name of the tournament (RPL, Russian Cup, etc.)
+- tournament - name of the tournament (КР - Кубок России, ТД - Турнир дублёров (до 2008) / МП - Молодёжное первенство (с 2008), ЧР - Чемпионат России (до 2018) / РПЛ - Российская премьер лига (с 2018), СКР - Суперкубок России, ПТ - ?)
 - date - date of the match
 - match - teams
 - result - the final result
@@ -29,7 +29,7 @@ The dataset includes information about all football matches (RFPL, RPL, Russian 
 - yellow_red_card - two yellow cards (-> red card) obtained by the player
 - red_card - direct red card obtained by the player
 
-<img src="https://github.com/g2r4i6e8/russian_football_data/blob/main/docs/matches.png" height="500" />
+<img src="https://github.com/g2r4i6e8/russian_football_data/blob/main/docs/matches.png" height="400" />
 
 ### careers
 - uid - player's uid (that is not unique field)
